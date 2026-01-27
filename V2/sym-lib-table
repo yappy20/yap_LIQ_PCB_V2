@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESPRESSIF ESP32-S3-MINI-1-N8")(type "KiCad")(uri "C:/Users/edna/Desktop/LaundryIQ-v2-PCB/Lib/ESPRESSIF ESP32-S3-MINI-1-N8.kicad_sym")(options "")(descr ""))
+  (lib (name "HI-LINK HLK-PM01")(type "KiCad")(uri "C:/Users/edna/Desktop/LaundryIQ-v2-PCB/Lib/HI-LINK HLK-PM01.kicad_sym")(options "")(descr ""))
+  (lib (name "Melexis MLX91221KDC-ABR-050-RE")(type "KiCad")(uri "C:/Users/edna/Desktop/LaundryIQ-v2-PCB/Lib/Melexis MLX91221KDC-ABR-050-RE.kicad_sym")(options "")(descr ""))
+  (lib (name "TI ADS1115IDGSR")(type "KiCad")(uri "C:/Users/edna/Desktop/LaundryIQ-v2-PCB/Lib/TI ADS1115IDGSR.kicad_sym")(options "")(descr ""))
+  (lib (name "SS14")(type "KiCad")(uri "C:/Users/edna/Desktop/LaundryIQ-v2-PCB/Lib/SS14.kicad_sym")(options "")(descr ""))
+  (lib (name "C1")(type "KiCad")(uri "C:/Users/edna/Desktop/LaundryIQ-v2-PCB/Lib/C1.kicad_sym")(options "")(descr ""))
+  (lib (name "C3")(type "KiCad")(uri "C:/Users/edna/Desktop/LaundryIQ-v2-PCB/Lib/C3.kicad_sym")(options "")(descr ""))
+  (lib (name "4.7 nF")(type "KiCad")(uri "C:/Users/edna/Desktop/LaundryIQ-v2-PCB/Lib/4.7 nF.kicad_sym")(options "")(descr ""))
+  (lib (name "10k")(type "KiCad")(uri "C:/Users/edna/Desktop/LaundryIQ-v2-PCB/Lib/10k.kicad_sym")(options "")(descr ""))
+)
