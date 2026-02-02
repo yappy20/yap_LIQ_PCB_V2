@@ -3058,13 +3058,13 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 62.23) (xy 114.3 62.23)
+			(xy 110.49 64.77) (xy 104.14 64.77)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "10b3b4b9-a99d-455d-ba84-f6491208d000")
+		(uuid "1a3675c7-a020-4de5-b012-f912507214c5")
 	)
 	(wire
 		(pts
@@ -3108,26 +3108,6 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 63.5) (xy 121.92 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "43d24cbd-5dca-4e4b-9f43-69ddeaa3fa00")
-	)
-	(wire
-		(pts
-			(xy 113.03 66.04) (xy 121.92 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "43e5c494-def6-416d-a804-f7fad5d6d9af")
-	)
-	(wire
-		(pts
 			(xy 68.58 54.61) (xy 76.2 54.61)
 		)
 		(stroke
@@ -3155,6 +3135,16 @@
 			(type default)
 		)
 		(uuid "77c59f58-8f65-4b90-a8e5-d0a7a112cd05")
+	)
+	(wire
+		(pts
+			(xy 110.49 62.23) (xy 104.14 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78ac2f73-7e2a-4a12-9166-889f67bd081d")
 	)
 	(wire
 		(pts
@@ -3195,16 +3185,6 @@
 			(type default)
 		)
 		(uuid "a360cf73-31ea-478a-bdef-0d71214615f7")
-	)
-	(wire
-		(pts
-			(xy 114.3 62.23) (xy 114.3 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a7adc9c0-6798-4836-9938-0de0d5b6dd10")
 	)
 	(wire
 		(pts
@@ -3255,26 +3235,6 @@
 			(type default)
 		)
 		(uuid "ca788224-8009-4915-af30-110c1806ad1f")
-	)
-	(wire
-		(pts
-			(xy 113.03 64.77) (xy 113.03 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ca7b4975-6b0f-428d-bfd0-f484e7bf0399")
-	)
-	(wire
-		(pts
-			(xy 110.49 64.77) (xy 113.03 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d22b5ac9-0e60-4b16-b794-d23ab1dd3f3a")
 	)
 	(wire
 		(pts
@@ -3367,7 +3327,7 @@
 		(uuid "4750e353-3fb7-48b7-8e23-442526e1f6ae")
 	)
 	(label "SCL"
-		(at 121.92 63.5 180)
+		(at 104.14 62.23 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3377,7 +3337,7 @@
 		(uuid "7f8a7ae1-e791-4ca6-b33b-ca3c73c620b5")
 	)
 	(label "SDA"
-		(at 121.92 66.04 180)
+		(at 104.14 64.77 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5327,7 +5287,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c3111ecb-9a9a-4487-afca-d70d5833d103")
 		(property "Reference" "#PWR06"
 			(at 49.53 76.2 0)
@@ -5339,7 +5298,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 46.99 76.1999 90)
+			(at 46.228 75.946 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5883,7 +5842,7 @@
 	)
 	(symbol
 		(lib_id "SS14:SS14_C466498")
-		(at 48.26 78.74 0)
+		(at 48.26 78.74 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5891,7 +5850,7 @@
 		(dnp no)
 		(uuid "e50e23ee-e76e-4ba9-9aef-b69b5647b3ba")
 		(property "Reference" "D1"
-			(at 48.514 82.042 0)
+			(at 48.006 81.534 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5899,7 +5858,7 @@
 			)
 		)
 		(property "Value" "SS14_C466498"
-			(at 48.005 74.93 0)
+			(at 48.515 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5908,7 +5867,7 @@
 			)
 		)
 		(property "Footprint" "SS14:SMA_L4.2-W2.6-LS5.3-RD"
-			(at 48.26 86.36 0)
+			(at 48.26 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5917,7 +5876,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_High-Diode-SS14_C466498.html"
-			(at 48.26 88.9 0)
+			(at 48.26 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5935,7 +5894,7 @@
 			)
 		)
 		(property "LCSC Part" "C466498"
-			(at 48.26 91.44 0)
+			(at 48.26 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
