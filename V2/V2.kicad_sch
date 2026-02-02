@@ -3396,7 +3396,7 @@
 		)
 		(uuid "e5ea107f-c835-430d-849a-60a0cf090632")
 	)
-	(label "N"
+	(label "+120"
 		(at 27.94 44.45 180)
 		(effects
 			(font
@@ -3957,7 +3957,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GRM1885C1H472JA01D"
+		(property "Value" "4.7nF"
 			(at 72.39 50.8 0)
 			(effects
 				(font
@@ -4718,7 +4718,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CL05B473KB5VPNC"
+		(property "Value" "47nF"
 			(at 64.77 50.7999 0)
 			(effects
 				(font
@@ -6003,7 +6003,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CL05B473KB5VPNC"
+		(property "Value" "47nF"
 			(at 57.15 50.7999 0)
 			(effects
 				(font
